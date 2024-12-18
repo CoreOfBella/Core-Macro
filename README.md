@@ -2,7 +2,7 @@
 
 ## Overview
 This fishing macro script is designed to assist in a fishing minigame by dynamically tracking the position of the fish and the progress bar on the screen. It uses OpenCV for image recognition and PyAutoGUI for mouse control to keep the fish within the progress bar's bounds efficiently and precisely.
-(  IT WORKS BEST WITH NLR  )
+(  IT WORKS BEST WITH NO LIFE ROD  )
 
 ## Features
 
