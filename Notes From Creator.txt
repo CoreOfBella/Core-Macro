@@ -1,0 +1,7 @@
+I encourage everyone who comes across this script to feel free to make updates, adjustments, or enhancements; i strongly encourage pull requests and communication with me so we can make this better! The future of coding and scripting lies in collaborative growth and the willingness to learn and share knowledge.
+
+This script is not groundbreaking or exceptionally unique, but it was created with the hope of inspiring and encouraging the next generation of coders. Whether this script sparks creativity in one person or many, the goal is to motivate you to keep pushing boundaries and exploring your potential.
+
+Never stop learning, never stop experimenting, and above all, never stop being creative. Your journey as a coder is only just beginning—let’s shape the future together.
+
+THIS WAS ALL CREATED (mostly) AND WRITTEN BY CHATGPT
